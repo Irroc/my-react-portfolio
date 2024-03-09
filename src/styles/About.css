@@ -1,0 +1,14 @@
+.aboutContainer{
+    display: flex;
+    justify-content: space-evenly;
+}
+.aboutImg{
+    max-width: 35%;
+    margin: 25px;
+
+}
+.aboutText{
+    margin: 25px;
+    max-width: 45%;
+    font-size: x-large;
+}
