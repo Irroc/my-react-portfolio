@@ -1,7 +1,9 @@
 .header {
   min-width: 25%;
-  background: #f9b713;
+  background: rgb(0, 0, 117);
   height: 200px;
+  border-bottom-right-radius: 15px;
+  margin-bottom: 20px;
 }
 
 .header h1 {
@@ -14,15 +16,28 @@
 
 .headerAndNavContainer {
   display: flex;
+  justify-content: space-between;
 }
 
 .navBar {
-  min-width: 75%;
+  min-width: 60%;
   background-color: rgba(0, 81, 255, 0.096);
   justify-content: space-evenly;
+  max-height: 125px;
 }
 .navItems {
-  background-color: #1335f9;
+  margin: 20px;
+  display: flex;
+  justify-content: space-around;
   min-width: 20%;
   font-size: 100%;
+}
+
+.navText{
+  display: flex;
+  border-radius: 5px;
+  justify-content: center;
+  background-color: rgb(0, 0, 117);
+  font-size: 45px;
+  color: white;
 }
