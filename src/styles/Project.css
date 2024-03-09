@@ -1,0 +1,32 @@
+.link {
+    display: flex;
+    justify-content: center;
+}
+.container {
+    background-color: rgba(0, 17, 255, 0.253);
+    min-width: 95%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.projects {
+    background-color: rgba(53, 192, 111, 0.712);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    max-width: 600px;
+    max-height: 600px;
+    margin: 50px;
+}
+
+.projectsImg { 
+    max-width: 600px;
+    max-height: 400px;
+}
+
+.projectsDesc {
+    max-width: 600px;
+    max-height: 200px;
+}

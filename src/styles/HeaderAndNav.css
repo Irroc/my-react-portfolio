@@ -1,0 +1,28 @@
+.header {
+  min-width: 25%;
+  background: #f9b713;
+  height: 200px;
+}
+
+.header h1 {
+  margin: 0;
+  padding-top: 75px;
+  text-align: center;
+  color: white;
+  font-size: 3rem;
+}
+
+.headerAndNavContainer {
+  display: flex;
+}
+
+.navBar {
+  min-width: 75%;
+  background-color: rgba(0, 81, 255, 0.096);
+  justify-content: space-evenly;
+}
+.navItems {
+  background-color: #1335f9;
+  min-width: 20%;
+  font-size: 100%;
+}
