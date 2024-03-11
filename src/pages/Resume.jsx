@@ -1,4 +1,4 @@
-import '../styles/resume.css'
+import '../styles/Resume.css'
 export default function Resume() {
   return (
     <div>
