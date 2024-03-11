@@ -4,7 +4,7 @@ export default function AboutMe() {
     <div>
       <h1>About Me</h1>
       <div className="aboutContainer">
-        <img src="/src/assets/IMG_4513.jpg" className="aboutImg"></img>
+        <img src="/IMG_4513.jpg" className="aboutImg"></img>
         <p className="aboutText">
           Hi, I&apos;m Corri. I am a working husband and father, who is looking to change career paths and have attended a UNH Coding bootcamp in web-development in order to accomplish this.
           I have always had a great interest in all things tech due to my father working on computers for most of my life.
