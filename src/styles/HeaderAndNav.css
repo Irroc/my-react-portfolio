@@ -24,6 +24,7 @@
   background-color: rgba(0, 81, 255, 0.096);
   justify-content: space-evenly;
   max-height: 125px;
+  border-bottom-left-radius: 15px;
 }
 .navItems {
   margin: 20px;

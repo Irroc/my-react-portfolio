@@ -1,0 +1,10 @@
+.resumeDiv{
+    display: flex;
+    justify-content: space-around;
+    height: 1200px;
+}
+.pdf{
+    margin: 20px;
+    min-width: 85%;
+    min-height: 85%;
+}
